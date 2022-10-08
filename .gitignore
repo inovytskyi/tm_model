@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 venv/
+.idea/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
