@@ -7,6 +7,3 @@ class CustomFieldConfig(BaseModel):
     optional_values: Optional[List]
 
 
-class CustomFields(BaseSettings):
-    fields: List[CustomFieldConfig]
-

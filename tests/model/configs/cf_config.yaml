@@ -1,0 +1,10 @@
+fields:
+  - name: branch
+    optional_values:
+    - SOP
+    - FUP1
+    - FUP2
+  - name: type
+    optional_values:
+    - functional
+    - performance
